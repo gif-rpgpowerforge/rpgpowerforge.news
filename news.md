@@ -8,10 +8,13 @@ We are happy to finally present the new features included in this version. Take 
 
 ### Message box Behavior
 
-![300x300](./news/messageBox.PNG)  
+![300x300](./news/messageBox.PNG)
+
 We are adding a new Behavior : **Message Box**  
-You can configure the behavior in a variety of ways :  
-![400x200](./news/messageBox2.PNG)  
+You can configure the behavior in a variety of ways :
+
+![400x200](./news/messageBox2.PNG)
+
 
 
 ### Alteration Behavior
