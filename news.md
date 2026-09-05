@@ -13,7 +13,7 @@ We are happy to finally present the new features included in this version. Take 
 We are adding a new Behavior : **Message Box**  
 You can configure the behavior in a variety of ways :
 
-![400x200](./news/messageBox2.png)
+![400x256](./news/messageBox2.png)
 
 
 
