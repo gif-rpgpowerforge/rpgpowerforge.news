@@ -1,6 +1,6 @@
 # RPG Power Forge v0.6
 
-![300x100](./news/banner.png)
+![500x150](./news/banner.png)
 
 ## New features
 
