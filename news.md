@@ -1,29 +1,20 @@
-# RPG Power Forge v0.5
+# RPG Power Forge v0.6
 
-## New features !
-![200x200](./news/cat.png)
+![300x100](./news/banner.png)
 
-- **Database window** 
-- **Message box behavior**
-- **Project template**
-- **Localization**
+## New features
 
-### Database window
-![200x200](./news/cat.png)
+I'm happy to finally present the new features included in this version. Take a minute to see what **RPG Power Forge** offers !
 
-xxx
-
-### Message box behavior
-![200x200](./news/minion.png)
-
-xxx
-
+### Message box Behavior
+### Alteration Behavior
+### Variables Behavior 
+### Database window 
+### Onboarding window 
+### News window 
 ### Project template
-![200x200](./news/cat.png)
-
-xxx
-
 ### Localization
-![200x200](./news/cat.png)
+### Quality of life
 
-xxx
+- snapping
+- auto shadows
