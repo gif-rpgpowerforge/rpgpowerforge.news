@@ -3,10 +3,9 @@
 ## New features
 We are happy to finally present the new features included in this version. Take a minute to see what **RPG Power Forge** offers !
 ### Message box Behavior
-![300x300](./news/messageBox.png)  
+![512x315](./news/messageBox.png)  
 We are adding a new Behavior : **Message Box**  
-You can configure the behavior in a variety of ways :
-![400x256](./news/messageBox2.png)
+You can configure the behavior in a variety of ways : bubble, big box, with or without animated faceset.
 ### Alteration Behavior
 ### Variables Behavior 
 ### Database window 
