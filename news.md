@@ -23,5 +23,8 @@ This very window is remotely updated, which make if possible for us to inform yo
 ### Localization
 English, French and Japanese (partial) are available !
 ### Quality of life
-- snapping
-- auto shadows
+![512x363](./news/snapping.png)  
+You can now easily snap **Props** and **Actors** on you scene using our snap feature (available in the **Asset Picker** Toolbar)
+![512x387](./news/shadow.png)  
+**Props** and **Actors** can now have a shadow casted ! You can choose between a projected shadow or a blob one (disk).
+
