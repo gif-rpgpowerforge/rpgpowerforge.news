@@ -19,12 +19,12 @@ You can now modify a **Variable** when a **Bahavior** is triggered.
 ![512x451](./news/alteration.png)  
 **Alteration** is our solution to apply a modification to an Actor during the game. It is applied when a **Behavior** is triggered. An **Alteration** can affect an **Actor** in various ways : add/substract a **Stat**, apply a temporary status, etc.
 ### Onboarding
-![512x179](./news/onboarding.png)  
+![512x440](./news/onboarding.png)  
 Once you've installed **RPG Power Forge**, you'll be welcomed !
 ### News
 This very window is remotely updated, which make if possible for us to inform you in real-time !
 ### Localization
-![512x440](./news/langage.png)  
+![512x169](./news/langage.png)  
 English, French and Japanese (partial) are available !
 ### Quality of life
 ![512x363](./news/snapping.png)  
